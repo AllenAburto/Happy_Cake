@@ -1,7 +1,7 @@
 import {Header} from "./Componentes/Header";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import {Contacto} from "./Views/Contacto";
-import cakeLogo from "./assets/img2.png"
+import cakeLogo from "./assets/img/img2.png"
 import {Home} from "./Views/Home";
 import 'bootstrap/dist/css/bootstrap.min.css';
 

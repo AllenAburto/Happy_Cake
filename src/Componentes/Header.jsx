@@ -12,7 +12,7 @@ export const Header = () => {
               className={({isActive, isPending}) =>
                 isActive && !isPending ? "nav-link active" : "nav-link"
               }
-            ><i class="fa-solid fa-house"></i>
+            ><i className="fa-solid fa-house"></i>
               Home
             </NavLink>
             <NavLink
