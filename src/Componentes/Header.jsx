@@ -20,7 +20,7 @@ export const Header = () => {
               className={({isActive, isPending}) =>
                 isActive && !isPending ? "nav-link active" : "nav-link"
               }
-            ><i class="fa-solid fa-address-card"></i>
+            ><i className="fa-solid fa-address-card"></i>
               Contacto
             </NavLink>
           </Nav>
